@@ -1,11 +1,9 @@
-vmess://eyJhZGQiOiIxNzIuNjcuMTUxLjIyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXMtY2NzLnl1amkyMDIyLmV1Lm9yZyIsImlkIjoiNGI1ZTQ1NjUtMzIyZi00MjIzLWE4OTEtNzhhODRmMTg5NzI2IiwibmV0Ijoid3MiLCJwYXRoIjoiL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsInBvcnQiOiI4ODgwIiwicHMiOiJVUyBHb29nbGUgRE5TIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80/?type=ws&encryption=none&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04#us
-vless://1ef034ba-20d5-41b0-a922-d7e6def1a706@104.21.74.97:443/?type=ws&encryption=none&host=dd.limoo.online&path=%2F%3Fed%3D2048&security=tls&sni=dd.limoo.online#%F0%9F%87%B5%F0%9F%87%B1
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096/?type=grpc&encryption=none&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%20%F0%9F%87%AE%F0%9F%87%B9%20
+vless://a35017af-d228-44bd-885c-e5951ce09df6@5.75.202.205:80/?type=ws&encryption=none&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiJmMi5tYXJ5YW0xOTAwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZmU1NzU1Ny1kZjI0LTQzZTUtOWNlYS01ZDJhY2MyY2FkMDgiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiJ5dCBvbmx5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8%20%40LuxyNet%F0%9F%92%8E%E2%9D%96%F0%9F%87%BA%F0%9F%87%B8%E2%9D%96US%E2%9D%96965
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20%40LuxyNet%F0%9F%92%8E%E2%9D%96%F0%9F%87%B3%F0%9F%87%B1%E2%9D%96NL%E2%9D%961634
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6%20Canada
 trojan://2cba4104747d49d18319e5ade1b93ab5@134.195.196.138:443/?type=ws&host=avianrecruit.com&path=6b777a91&security=tls&sni=avianrecruit.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20TR-WS-NA%204%E2%83%A3
-vless://b642e82c-b721-43bc-8602-0241cc4a3933@45.15.157.21:7777/?type=ws&encryption=none&host=4pda.to&path=%2F#%F0%9F%87%AB%F0%9F%87%B7
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@45.15.157.21:7777/?type=ws&encryption=none&host=4pda.to&path=%2F#%F0%9F%87%AB%F0%9F%87%B7
