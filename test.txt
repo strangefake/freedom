@@ -1,4 +1,3 @@
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20Luxy
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B4%20NO-1
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
