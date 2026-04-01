@@ -1,3 +1,5 @@
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20Luxy
+hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20%282%29
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
