@@ -1,10 +1,7 @@
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20Luxy
-hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20%282%29
-hy2://99c91f05-4cd3-4021-8aa8-c70fdc4ff1b5@103.62.49.76:35000/?insecure=1&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
 trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&sid=aabbccdd#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20YA%20%281%29
 trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443/?type=tcp&sni=5post-gate.x5.ru&fp=random&security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B*CIDR%5D%20YA%20%281%29
 vless://cf5718f5-c0f3-4b63-8fbf-1de69c1299c5@90.156.218.67:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun2-11.userapi.com&fp=chrome&security=reality&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&sid=#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B*CIDR%5D%20VK
 vless://616f5216-aaf1-4983-8c79-7ee9b2dfdf02@158.160.250.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&sid=b99e82f6d99f6e#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
-hy2://dongtaiwang.com@62.210.30.179:443/?mport=41000-42000&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hy2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443/?insecure=1&sni=bing.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
