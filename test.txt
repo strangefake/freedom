@@ -8,5 +8,3 @@ vless://cf5718f5-c0f3-4b63-8fbf-1de69c1299c5@90.156.218.67:443/?type=tcp&encrypt
 vless://616f5216-aaf1-4983-8c79-7ee9b2dfdf02@158.160.250.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&sid=b99e82f6d99f6e#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20YA
 hy2://dongtaiwang.com@62.210.30.179:443/?mport=41000-42000&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hy2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443/?insecure=1&sni=bing.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
